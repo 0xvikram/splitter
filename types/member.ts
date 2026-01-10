@@ -10,6 +10,6 @@ export interface Member{
     name:string;
     moneyOwed:money;
     moneyLent:money;
-
+    
 
 }
