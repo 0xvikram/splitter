@@ -3,6 +3,7 @@ import { Member } from "@/types/member";
 import { Id ,money} from "@/types/common";
 
 export interface MemberBalance {
+    
     memberId:Id;
     moneyOwed:money;
     moneyLent:money
